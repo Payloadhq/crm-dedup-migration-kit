@@ -1,0 +1,17 @@
+Contact ID,First Name,Last Name,Email,Phone Number,Company Name,Associated Company,Create Date,Last Activity Date,Lead Status
+101,Sarah,Chen,sarah.chen@northwind.io,+1 (415) 555-0132,Northwind,Northwind,2024-02-11,2026-09-28,New
+102,sarah,chen,SARAH.CHEN@northwind.io,4155550132,Northwind Inc,Northwind Inc,2024-06-03,2026-08-14,New
+103,Jonathan,Miller,j.miller@acmecorp.com,+44 20 7946 0018,Acme Corp,Acme Corp,2023-11-20,2026-09-30,Open
+104,Jonathon,Miller,jonathan.miller@acmecorp.com,020 7946 0018,Acme,Acme,2024-01-15,2026-07-02,Open
+105,Bob,Williams,bob.w@initech.com,+1-617-555-0147,Initech,Initech,2024-03-09,2026-09-12,Working
+106,Robert,Williams,robert.williams@initech.com,(617) 555-0147,Initech LLC,Initech LLC,2023-09-25,2026-09-29,Working
+107,Katherine,O'Brien,kobrien@globex.com,+1 212 555 0193,Globex,Globex,2024-04-18,2026-06-21,New
+108,Catherine,Obrien,catherine.obrien@globex.com,,Globex Inc,Globex Inc,2024-08-30,2026-05-11,New
+109,Priya,Nair,priya.nair@hooli.com,+1 650 555 0111,Hooli,Hooli,2024-05-22,2026-09-15,Open
+110,David,Kim,david.kim@hooli.com,+1 650 555 0144,Hooli,Hooli,2024-05-22,2026-09-15,Open
+111,Maria,Garcia,maria.garcia@massive-dynamic.com,+34 91 555 0172,Massive Dynamic,Massive Dynamic,2023-12-01,2026-08-08,Working
+112,Tomas,Silva,tomas.silva@massive-dynamic.com,+34 91 555 0189,Massive Dynamic,Massive Dynamic,2024-07-19,2026-09-02,New
+113,Wei,Zhang,wei.zhang@tyrell.io,+81 3 5555 0123,Tyrell,Tyrell,2024-09-05,2026-09-27,New
+114,Amara,Okafor,amara.okafor@wayne-ent.com,+1 (312) 555-0166,Wayne Enterprises,Wayne Enterprises,2024-10-14,2026-09-20,Open
+115,Lena,Fischer,lena.fischer@stromberg.de,+49 30 5555 0142,Stromberg GmbH,Stromberg GmbH,2024-11-02,2026-08-25,New
+116,Raj,Patel,raj.patel@globex.com,+1 212 555 0177,Globex,Globex,2025-01-08,2026-09-11,New
