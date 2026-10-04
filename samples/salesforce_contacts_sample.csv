@@ -1,0 +1,9 @@
+Id,FirstName,LastName,Email,Phone,AccountId,Account Name,MailingCity,Title
+003A000001a2b3c4,Emily,Zhang,emily.zhang@soylent.com,+1 415 555 0160,001A000001x9y8z7,Soylent,San Francisco,Engineer
+003A000001d4e5f6,emily ,zhang,EMILY.ZHANG@soylent.com,415-555-0160,001A000001x9y8z7,Soylent Corp,San Francisco,Engineer
+003A000001g7h8i9,Michael,Brown,mike.brown@stark.io,+1 212 555 0129,001A000001p3q2r1,Stark Industries,New York,Director
+003A000001j1k2l3,Mike,Brown,michael.brown@stark.io,(212) 555-0129,001A000001p3q2r1,Stark,New York,Director
+003A000001m4n5o6,Sofia,Rossi,sofia.rossi@wayne-ent.com,+39 02 5555 0133,001A000001s6t5u4,Wayne Enterprises,Milan,Manager
+003A000001p7q8r9,James,Wilson,james.wilson@wayne-ent.com,+1 312 555 0188,001A000001s6t5u4,Wayne Enterprises,Chicago,Analyst
+003A000001s1t2u3,Ana,Souza,ana.souza@nubank.br,+55 11 5555 0177,001A000001v9w8x7,Nubank,Sao Paulo,Designer
+003A000001v4w5x6,Lucas,Almeida,lucas.almeida@nubank.br,+55 11 5555 0188,001A000001v9w8x7,Nubank,Sao Paulo,Designer
