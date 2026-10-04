@@ -50,4 +50,4 @@ This repo contains documentation and sample data. The full kit ($149, one-time) 
 
 kyler.simmons.partners@gmail.com
 
-Telegram: https://t.me/PAYLOADTOOLS
+Telegram: https://t.me/payloadtool
