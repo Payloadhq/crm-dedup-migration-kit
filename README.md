@@ -49,3 +49,5 @@ This repo contains documentation and sample data. The full kit ($149, one-time) 
 ## Support
 
 kyler.simmons.partners@gmail.com
+
+Telegram: https://t.me/PAYLOADTOOLS
