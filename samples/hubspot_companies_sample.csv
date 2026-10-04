@@ -1,0 +1,11 @@
+Company ID,Company Name,Company Domain Name,Phone Number,City,Industry
+201,Acme Corporation,acme.com,+1 415 555 0100,San Francisco,Software
+202,"Acme, Inc.",https://www.acme.com/,415-555-0100,San Francisco,Software
+203,Globex Ltd,globex.com,+1 212 555 0100,New York,Manufacturing
+204,Globex Limited,http://globex.com,+1 (212) 555-0100,New York,Manufacturing
+205,Northwind Traders,northwind.io,+1 415 555 0120,Seattle,Retail
+206,Northwind Trading Co,northwind-trading.com,+1 415 555 0121,Seattle,Retail
+207,Initech,initech.com,+1 617 555 0130,Boston,Software
+208,Parasol Inc,parasol.io,+1 303 555 0150,Denver,Healthcare
+209,Stromberg GmbH,stromberg.de,+49 30 5555 0142,Berlin,Industrial
+210,Stromberg,https://stromberg.de,,Berlin,Industrial
