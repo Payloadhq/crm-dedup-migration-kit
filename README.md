@@ -60,7 +60,7 @@ The full kit ($149, one-time) includes:
 
 ## Support and updates
 
-- Support: kyler.simmons.partners@gmail.com
+- Support: kylers.partners@gmail.com
 - Telegram: https://t.me/payloadtool
 - Patreon: https://patreon.com/PayloadTools
 
@@ -71,4 +71,4 @@ Sold and supported by Payload. Small software that earns its keep.
 **Payload** — small, sharp tools for developers.
 Developer portal: https://payloadhq.github.io/ ·
 All products: https://payloadtools.gumroad.com/ ·
-Contact: kyler.simmons.partners@gmail.com
+Contact: kylers.partners@gmail.com
