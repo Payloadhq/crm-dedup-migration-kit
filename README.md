@@ -72,3 +72,9 @@ Sold and supported by Payload. Small software that earns its keep.
 Developer portal: https://payloadhq.github.io/ ·
 All products: https://payloadtools.gumroad.com/ ·
 Contact: kylers.partners@gmail.com
+
+---
+
+**More from Payload** · [payloadhq.github.io](https://payloadhq.github.io/) · [all Payload repos](https://github.com/Payloadhq)
+
+Related: [csv-duplicate-inspector](https://github.com/Payloadhq/csv-duplicate-inspector)
