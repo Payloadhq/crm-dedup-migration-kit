@@ -1,4 +1,4 @@
-# CRM Dedup & Migration Cleanup Kit
+# CRM Dedup System
 
 *Offline duplicate detection and dry-run merge planning for CRM CSV exports. A commercial product by Payload.*
 
