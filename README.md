@@ -68,7 +68,7 @@ Sold and supported by Payload. Small software that earns its keep.
 
 ---
 
-**Payload** — small, sharp tools for developers.
+**Payload** — Developer infrastructure for x402, agent payments, and programmable revenue..
 Developer portal: https://payloadhq.github.io/ ·
 All products: https://payloadtools.gumroad.com/ ·
 Contact: kylers.partners@gmail.com
